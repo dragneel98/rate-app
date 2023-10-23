@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "449cd991-8281-4fe2-8dc2-544bf9dfe7cc"
+      }
+    },
+    "owner": "gonzalo98"
   }
 }

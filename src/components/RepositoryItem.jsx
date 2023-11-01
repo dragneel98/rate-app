@@ -49,7 +49,7 @@ const ItemHeader = (props) => {
     return (
         <View style={style.header}>
             <View style={style.header1}>
-                <Image style={style.image} source={{ uri: props.ownerAvartUrl }}></Image>
+                <Image style={style.image} source={{ uri: props.ownerAvatarUrl }}></Image>
             </View>
             <View style={style.header2}>
                 <StyledText fontSize="subheading" fontWeight="bold"> {props.fullName} </StyledText>
